@@ -1,21 +1,21 @@
-https://pedro-donoso.github.io/CRUD-Firebase/
+## https://pedro-donoso.github.io/CRUD-Firebase/
 
-# Lista de usuarios
+![](https://user-images.githubusercontent.com/68760595/128279872-4de1b60d-c4ab-46cf-8418-d057e1deb3c3.PNG)
 
-- ingresa nombre
+## Lista de usuarios
 
-- ingresa apellido
+ingresa nombre
 
-- ingresa fecha de nacimiento
+ingresa apellido
 
-- click en guardar
+ingresa fecha de nacimiento
 
-- se genera un ID automático
+click en guardar
 
-- aparecen los datos ingresados en una tabla
+se genera un ID automático
 
-- puedes editar algún dato y volver a guardar
+aparecen los datos ingresados en una tabla
 
-- puedes eliminar todos los datos
+puedes editar algún dato y volver a guardar
 
-
+puedes eliminar todos los datos
